@@ -14,6 +14,13 @@ Landing page giới thiệu dịch vụ Digital Ads của SEONGON Agency.
 - Bảo mật thông tin CID tài khoản quảng cáo
 - Responsive, single-file HTML (không dùng thư viện JS ngoài)
 
+## Google Sheets (dữ liệu form)
+
+**https://docs.google.com/spreadsheets/d/1_2XveLa7-xbsK7kI3QWr98mtL4vn6yTRvqnurcB8dUw/edit**
+
+- Sheet 1 – **Kiểm tra tài khoản**: lưu dữ liệu form kiểm tra sức khỏe tài khoản quảng cáo
+- Sheet 2 – **Liên hệ**: lưu dữ liệu form liên hệ tư vấn
+
 ## Công nghệ
 
 - HTML / CSS / JavaScript thuần
